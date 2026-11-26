@@ -1,0 +1,29 @@
+# User-specific settings, including screen coordinates and window positions
+CoolDownTimer.ini
+memory_monitor.ini
+.vscode/
+
+# Python environments and generated artifacts
+.venv/
+__pycache__/
+*.py[cod]
+
+# Native build output and local toolchain files
+build/
+*.exe
+*.obj
+*.pdb
+*.dll
+build_with_cl.cmd
+vcpkg-master/
+
+# Unrelated experiments in the parent folder
+fruit_vampire_survivor.py
+test_fruit_survivor.py
+test.ccp
+memory_monitor.py
+
+# Artwork is excluded until redistribution rights are confirmed
+paopao.jpg
+paopao.png
+软件图标.ico
